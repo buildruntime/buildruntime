@@ -13,8 +13,8 @@ const DIR = path.resolve(__dirname, '..', 'assets', 'brand');
 const EXPORTS = [
   ['avatar.svg', 'avatar.png', 512, 512, 1],                // GitHub profile picture
   ['social-preview.svg', 'social-preview.png', 1280, 640, 1], // repo social preview (<1 MB)
-  ['banner-dark.svg', 'banner-dark.png', 1280, 400, 2],
-  ['banner-light.svg', 'banner-light.png', 1280, 400, 2],
+  ['banner-dark.svg', 'banner-dark.png', 1280, 520, 2],
+  ['banner-light.svg', 'banner-light.png', 1280, 520, 2],
   ['logo-mark.svg', 'logo-mark-512.png', 512, 512, 1],
   ['logo-horizontal-light.svg', 'logo-horizontal-light.png', null, 64, 4],
   ['logo-horizontal-dark.svg', 'logo-horizontal-dark.png', null, 64, 4],
