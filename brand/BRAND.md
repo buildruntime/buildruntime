@@ -30,7 +30,7 @@ second half in the secondary text colour, as in the banner.
 
 ## Mark
 
-<img src="../assets/brand/logo-mark-on-light.svg" width="64" alt="Mark">&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="../assets/brand/logo-mark-on-dark.svg"><img src="../assets/brand/logo-mark-on-light.svg" width="64" alt="Mark"></picture>&nbsp;&nbsp;&nbsp;
 <img src="../assets/brand/logo-mark.svg" width="64" alt="Mark on tile">&nbsp;&nbsp;&nbsp;
 <img src="../assets/brand/avatar.svg" width="64" alt="Avatar">
 

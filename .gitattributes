@@ -1,0 +1,4 @@
+# Brand asset build scripts are tooling, not the content of this repository.
+# Exclude them from GitHub's language statistics.
+brand/generate.py   linguist-detectable=false
+brand/export-png.js linguist-detectable=false
